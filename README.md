@@ -1,4 +1,4 @@
-# online-meeting
+# online-meeting Java(Spring) 코딩 컨벤션
 
 ## 클래스 및 인터페이스
 - 클래스 이름은 명사로 하고, `UpperCamelCase`를 사용.
