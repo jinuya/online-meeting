@@ -16,3 +16,8 @@
 
 ## 주석
 - 코드 내에 `//`를 사용한 단일 행 주석 추가.
+
+# 용어집
+
+- **WebRTC**: Web Real-Time Communication의 약어. 브라우저 간 실시간 통신을 위한 기술.
+- **SPA**: Single Page Application의 약어. 한 개의 페이지로 구성된 웹 애플리케이션.
